@@ -1,2 +1,2 @@
 #!/bin/bash
-alias PATH="//action"
+alias PATH="cd /alx-system_engineering-devops/0x03-shell_variables_expansions//action"
